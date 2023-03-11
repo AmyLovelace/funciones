@@ -5,3 +5,13 @@ def hola (nombre, apellido = "feliz"):#parametros
 
 hola("Amanecer", "Cabrera")#argumentos
 hola("chanchito")
+
+
+
+
+
+
+
+
+
+hola(apellido="Cabrera", nombre="Ami") #como avisar el nombre de los parametros
