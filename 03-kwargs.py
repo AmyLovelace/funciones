@@ -4,5 +4,5 @@ def get_product(**datos):#cuando llamas una funcion y le ponemos ** debemos darl
     print(datos["id"], datos["name"])
 
 get_product(id="ami", 
-            name="huawei",
+            name="23",
             desc=" esto es un celular chulisimo")
